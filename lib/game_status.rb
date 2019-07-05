@@ -1,20 +1,20 @@
 Skip to content
- 
+
 Search or jump to…
 
 Pull requests
 Issues
 Marketplace
 Explore
- 
-@MarcelReig 
+
+@MarcelReig
 Code  Pull requests 0  Projects 0  Security  Pulse
 ttt-game-status-ruby-intro-000/lib/game_status.rb
 @Jenna424 Jenna424 Done.
 bb3a509 on 13 Sep 2016
 @aviflombaum @Jenna424 @aturkewi
 Executable File  66 lines (58 sloc)  1.42 KB
-    
+
 # Helper Method
 def position_taken?(board, index)
   !(board[index].nil? || board[index] == " ")
