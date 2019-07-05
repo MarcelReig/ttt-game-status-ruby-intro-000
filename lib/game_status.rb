@@ -12,6 +12,6 @@ WIN_COMBINATIONS = [
   [0,3,6], # Left col
   [1,4,7], # Middle col
   [2,5,8], # Right col
-  [6,4,2], # Diagonal one 
+  [6,4,2], # Diagonal one
   [0,4,8], # Diagonal two
 ]
